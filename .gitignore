@@ -1,0 +1,8 @@
+.vscode/
+*.exe
+*.zip
+**/.cph/
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+
