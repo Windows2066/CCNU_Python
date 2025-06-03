@@ -18,3 +18,32 @@
 * [练习3(判断回文数)](https://github.com/Windows2066/CCNU_Python/blob/main/test2/3.py)
 * [练习4(汉诺塔完整过程)](https://github.com/Windows2066/CCNU_Python/blob/main/test2/4.py)
 * [练习5(pygame zero)](https://github.com/Windows2066/CCNU_Python/blob/main/test2/5.py)
+
+## 第三次上机
+
+* [练习1](https://github.com/Windows2066/CCNU_Python/blob/main/test3/ex1.py)
+* [练习2](https://github.com/Windows2066/CCNU_Python/blob/main/test3/ex2.py)
+* [练习3(通讯录)](https://github.com/Windows2066/CCNU_Python/blob/main/test3/ex3.py)
+* [练习4(彩虹球随机动态效果)](https://github.com/Windows2066/CCNU_Python/blob/main/test3/ex4.py)
+
+## 第四次上机
+
+* [练习1(文件读写)](https://github.com/Windows2066/CCNU_Python/blob/main/test4/1.py)
+* [练习2(文件读写)](https://github.com/Windows2066/CCNU_Python/blob/main/test4/2.py)
+* [练习3(猜单词游戏)](https://github.com/Windows2066/CCNU_Python/blob/main/test4/3.py)
+* [练习4(Pygame zero实现飞鸟游戏)](https://github.com/Windows2066/CCNU_Python/blob/main/test4/4/main.py)
+
+## 第五次上机
+
+* [练习1(直方图类)](https://github.com/Windows2066/CCNU_Python/blob/main/test5/1.py)
+* [练习2(Pygame zero实现太空飞机战斗游戏)](https://github.com/Windows2066/CCNU_Python/blob/main/test5/2.py)
+
+## 第六次上机
+
+* [练习1(统计文本词频)](https://github.com/Windows2066/CCNU_Python/blob/main/test6/1.py)
+* [练习2(文本词云图)](https://github.com/Windows2066/CCNU_Python/blob/main/test6/2.py)
+* [练习1(基于协同过滤算法的电影推荐系统)](https://github.com/Windows2066/CCNU_Python/blob/main/test6/3.py)
+
+## 第七次上机
+
+* [练习1(手写数字自动识别系统)](https://github.com/Windows2066/CCNU_Python/blob/main/test7/train.py)

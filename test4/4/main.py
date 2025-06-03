@@ -73,7 +73,7 @@ def add_bar():
     
     bars.append(bar_up_actor)
     bars.append(bar_down_actor)
-
+cpp
 def on_key_down(key):
     global flag
     if key == keys.SPACE and not flag:
