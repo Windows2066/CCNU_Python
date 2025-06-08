@@ -1,0 +1,11 @@
+100 100
+WWWWWWWWWW
+WW    W WW
+W  WW   GW
+WW1 W   WW
+W        W
+W   1    W
+W W  W   W
+W      P W
+W   W  G W
+WWWWWWWWWW

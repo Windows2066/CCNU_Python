@@ -47,3 +47,7 @@
 ## 第七次上机
 
 * [练习1(手写数字自动识别系统)](https://github.com/Windows2066/CCNU_Python/blob/main/test7/train.py)
+
+## 期末大作业
+
+* [推箱子游戏](https://github.com/Windows2066/CCNU_Python/blob/main/final_exam/start.py)
